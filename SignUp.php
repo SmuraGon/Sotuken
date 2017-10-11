@@ -1,4 +1,4 @@
-<?php
+aaaaaa<?php
 // セッション開始
 session_start();
 
